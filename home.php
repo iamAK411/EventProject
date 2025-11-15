@@ -63,7 +63,7 @@
                         <div class="content">
                             <h3> Wedding Photography</h3>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, pariatur!</p>
-                            <a href="about.php" class="btn">about us</a>
+                            <a href="portfolio.php" class="btn">about us</a>
                         </div>
                     </div>
 

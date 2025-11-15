@@ -112,6 +112,14 @@ section{
     color: var(--black);
 }
 
+
+.header .logIn{
+    width: 120px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .2);
+    border-radius: 15px;
+}
+
+
 .header .navbar a:hover{
     color: var(--pink);
 }
