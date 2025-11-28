@@ -15,6 +15,11 @@
 
     </div>
 
+    <div class="logIn">
+            <h1>Sing In</h1>
+        </div>
+
+
 
     <div id="menu-btn" class="fas fa-bars"></div>
         
