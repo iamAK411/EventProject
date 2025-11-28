@@ -49,8 +49,8 @@ body{
     border-radius: .5rem;
     overflow: hidden;
     background: var(--transparent-white);
-    backdrop-filter: blur(2.8rem);
-    max-width: 1200px;
+    backdrop-filter: blur(1.8rem);
+    max-width: 1300px;
     margin: 10rem auto;
     box-shadow: var(--box-shadow);
 }
@@ -92,6 +92,62 @@ section{
     padding: 2rem;
 }
 
+
+.header .login a{
+    font-size: 1.6rem;
+    color: var(--black);
+    
+}
+
+.header .login a:hover{
+    color: var(--pink);
+}
+
+
+
+/********* sign In *********/
+
+.container-sig{
+   border-radius: .5rem;
+    overflow: hidden;
+    background: var(--transparent-white); 
+    backdrop-filter: blur(.7rem);
+    max-width: 800px;
+    margin: 10rem auto;
+    box-shadow: var(--box-shadow);
+}
+
+.container-sig h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3rem;
+    padding-bottom: 3.4rem;
+    padding-top: 2rem;
+}
+
+
+.container-sig form{
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+.contact form .flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+
+.contact form .flex .inbox{
+    flex: 1 1 41rem;
+}
+
+
+/********* sign in End *********/
+
+
+
 .header{
     position: relative;
     z-index: 1000;
@@ -101,7 +157,7 @@ section{
     justify-content: space-between;
 }
 
-.header .logo{
+.header h1{
     font-size: 2.5rem;
     color: var(--black);
 }
@@ -110,13 +166,6 @@ section{
     font-size: 2rem;
     margin-left: 2rem;
     color: var(--black);
-}
-
-
-.header .logIn{
-    width: 120px;
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .2);
-    border-radius: 15px;
 }
 
 

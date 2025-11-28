@@ -1,5 +1,5 @@
 <section class="header">
-    <a href="home.php" class="logo">Wedding</a>
+    <h1>Wedding</h1>
 
     <nav class="navbar">
         <a href="home.php">Home</a>
@@ -9,8 +9,10 @@
         <a href="contact.php">Contact</a>
     </nav>
 
-    <div class="logIn">
-        <h1>Lgn In</h1>
+    <div class="login">
+
+        <a href="SignIn.php">Sign In</a>
+
     </div>
 
 

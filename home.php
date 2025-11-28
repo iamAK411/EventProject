@@ -24,25 +24,29 @@
                     <div class="swiper-slide slide" style="background:url(image/A22.jpg) no-repeat">
                         <div class="content">
                             <h3>Plan Your Wedding!</h3>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit, obcaecati quos. Minima eius qui id quas atque corporis, quia nulla.</p>
+                            <p> The most beautiful moment of life, when two hearts come together, starting a new journey.
+                                In the colors of this wedding, lies the shade of love and happiness, making every moment unforgettable.
+                            </p>
                             <a href="about.php" class="btn">Discover more</a>
                         </div>
                     </div>
 
 
-                    <div class="swiper-slide slide" style="background:url(image/A27.jpg) no-repeat">
+                    <div class="swiper-slide slide" style="background:url(image/A412.jpg) no-repeat">
                         <div class="content">
-                            <h3>Plan Your Wedding!</h3>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit, obcaecati quos. Minima eius qui id quas atque corporis, quia nulla.</p>
+                            <h3>Plan Your Brithday</h3>
+                            <p>A birthday celebrates the joy and memories of the past year.
+                                It’s a moment to welcome new beginnings with love and happiness.
+                            </p>
                             <a href="about.php" class="btn">Discover more</a>
                         </div>
                     </div>
 
 
-                    <div class="swiper-slide slide" style="background:url(image/A26.jpg) no-repeat">
+                    <div class="swiper-slide slide" style="background:url(image/A5.jpg) no-repeat">
                         <div class="content">
-                            <h3>Plan Your Wedding!</h3>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit, obcaecati quos. Minima eius qui id quas atque corporis, quia nulla.</p>
+                            <h3>Plan Your Other Events</h3>
+                            <p>Embrace each moment with joy, and celebrate every event life offers. Let every experience bring happiness to your heart.</p>
                             <a href="about.php" class="btn">Discover more</a>
                         </div>
                     </div>
